@@ -1,1 +1,2 @@
-# cf-final-project-bg-lib-bgg-rest
+# Coding Factory Final Project
+### This is a part of the final project for coding factory. It is a micro-service that gets called by the backend of a boadgame library application and fetches data from boardgamegeek.com using its api.
